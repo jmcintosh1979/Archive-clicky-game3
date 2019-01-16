@@ -1,0 +1,14 @@
+footer {
+  background-color: black;
+  height: 50px;
+  position: relative;
+  color: #fff;
+  overflow: auto;
+}
+ 
+p {
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 12px;
+}

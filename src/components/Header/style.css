@@ -1,0 +1,14 @@
+header {
+  background-image: url('/assets/images/Cybertron-700x300.jpg');
+  color: white;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+p {
+  font-size: 24px;
+  font-weight: bold;
+}

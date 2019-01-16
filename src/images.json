@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Optimus-Prime",
+    "image": "assets/images/Autobot_Optimus_Prime.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bumblebee",
+    "image": "assets/images/Autobot_Bumblebee.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ironhide",
+    "image": "assets/images/Autobot_Ironhide.png"
+  },
+  {
+    "id": 4,
+    "name": "Jazz",
+    "image": "assets/images/Autobot_Jazz.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ratchet",
+    "image": "assets/images/Autobot_Ratchet.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sideswipe",
+    "image": "assets/images/Autobot_Sideswipe.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Megatron",
+    "image": "assets/images/Decepticon_Megatron.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Barricade",
+    "image": "assets/images/Decepticon_Barricade.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Blackout",
+    "image": "assets/images/Decepticon_Blackout.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ravage",
+    "image": "assets/images/Decepticon_Ravage.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Soundwave",
+    "image": "assets/images/Decepticon_Soundwave.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Starscream",
+    "image": "assets/images/Decepticon_Starscream.jpg"
+  }
+]
